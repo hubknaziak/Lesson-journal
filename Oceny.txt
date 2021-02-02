@@ -1,0 +1,8 @@
+Jan:Kowalski:Informatyka:2018-09-21:4
+Jan:Kowalski:Informatyka:2018-09-21:3
+Jan:Kowalski:Informatyka:2018-09-21:2.5
+Jan:Kowalski:Informatyka:2018-09-21:3
+Jan:Nowak:WOS:2018-04-24:4.5
+Alicja:Makowska:HIS:2018-03-21:4.5
+Jan:Kowalski:WOS:2018-04-23:4.5
+::::

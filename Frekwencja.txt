@@ -1,0 +1,5 @@
+Alicja:Makowska:2018-07-13:true
+Alicja:Makowska:2017-03-21:true
+Arek:Ruda:2018-03-20:true
+Jan:Kowalski:2018-05-21:false
+:::true
